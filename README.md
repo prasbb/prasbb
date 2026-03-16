@@ -1,72 +1,103 @@
 <p align="center">
-  <img src="docs/images/linkedin-banner-image.png?text=Hey there!&animation=fadeIn&type=waving&color=gradient&height=100?"/>
+  <img src="docs/images/linkedin-banner-image.png" width="100%"/>
 </p>
 
-# Hey, I'm Pras!
+# Hey, I'm Pras 
 
-I'm a Computer Science student at the University of Illinois Urbana-Champaign, currently on an accelerated track to graduate in 3 years. My interests lie at the intersection of **machine learning**, **multimodal AI**, **computer vision**, and **natural language processing**.
+Computer Science @ **University of Illinois Urbana-Champaign (4.0 GPA)**  
+AI systems engineer interested in **retrieval systems, multimodal AI, and computer vision**.
 
----
-
-## 🔍 About Me
-
-- 🧠 **ex-AI Intern @ Kongsberg Digital**  
-   Designed a Retrieval-Augmented Generation (RAG) system that improved asset data retrieval by **70%**, enabling faster decisions in oil, gas, and heavy-asset industries.
-
-- 🧬 **Research Assistant @ Cellular Neuroscience Imaging Lab (UIUC)**  
-   Built deep learning pipelines for **label-free segmentation** of SLIM microscopy images to support research on neurodegenerative disorders.
-
-- 📚 **AI/ML Project Manager – CS 124 Honors**  
-   Led the development of an image classification system using CNNs, mentored students through the ML pipeline, and documented CNN design principles.
+🔗 **Portfolio:**  
+https://prasbb.github.io/prasbb-portfolio/
 
 ---
 
-## 🛠️ Tech Stack
+# 🔍 About Me
 
-**Languages:** Python, Rust, C++, Java, JavaScript  
-**ML/AI:** PyTorch, TensorFlow, Scikit-learn, LangChain, LangGraph, Cellpose  
-**Tools:** Azure DevOps, Git, Docker, JupyterLab  
-**Concepts:** Multimodal AI, RAG, NLP, Model Optimization
+### AI Systems Engineering
+**AI Intern — Kongsberg Digital**
 
----
+Built a **retrieval-augmented generation (RAG) system** for querying industrial digital twin data.  
+Implemented multimodal retrieval pipelines and parallel retrievers to improve response latency and retrieval accuracy.
 
-## Notable Projects
-
-- **AgriSphere** – Geospatial AI platform using NASA data for smart agriculture  
-- **Federated Facial Detection** – Privacy-preserving detection system in Rust  
-- **Transformer Architecture** – PyTorch implementation of core transformer logic  
-- **Local RAG System** – Small-scale Retrieval-Augmented Generation engine
+Focus areas:
+- LLM orchestration
+- retrieval pipelines
+- system latency optimization
+- multimodal document retrieval
 
 ---
 
-## Awards
+### Machine Learning Research
+**Research Assistant — Cellular Neuroscience Imaging Lab (UIUC)**
 
-- Best Overall – URSA Research Symposium, UIUC  
-- Illinois Engineering Achievement Scholar  
-- Salutatorian, IB 44/45
+Developed deep learning pipelines for **label-free segmentation of SLIM microscopy images**.
+
+Key work:
+- CNN / YOLO / Cellpose segmentation pipelines
+- automated microscopy analysis
+- biomedical imaging systems
+- scalable label-free computer vision workflows
+
+Research supervised by **Dr. Catherine Best-Popescu**.
 
 ---
 
-## Let's Connect
+### Teaching & Systems Work
 
-- Email: [pbairwa2@illinois.edu](mailto:pbairwa2@illinois.edu)  
-- GitHub: [github.com/prasbb](https://github.com/prasbb)  
-- LinkedIn: [Pras Bairwa](https://www.linkedin.com/in/prasheetha-bairwa/)
+**Course Assistant — CS233 (Computer Architecture)**  
+Maintained and supported **SpimBot**, a MIPS-based autonomous agent simulator used by 200+ students.
+
+**Mentor — CS124 Honors**
+
+Mentored student teams developing CNN models for **galaxy morphology classification** and helped develop introductory course material on computer vision.
 
 ---
 
+# Technical Toolkit
 
-<!--
-**prasbb/prasbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages & Systems
+Python • SQL • C++ • C • Java • Rust • Verilog • MIPS Assembly
 
-Here are some ideas to get you started:
+### Machine Learning
+Deep Learning • Computer Vision • NLP • Retrieval-Augmented Generation • Multimodal AI • Federated Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks & Libraries
+PyTorch • TensorFlow • Scikit-learn • LangChain • OpenCV
+
+### Tools & Infrastructure
+Docker • Git • Linux • Azure DevOps
+
+---
+
+# Selected Projects
+
+### Transformer From Scratch
+Implemented a full **encoder–decoder Transformer architecture in PyTorch**, including multi-head attention, positional encoding, and attention masking.
+
+### Local Retrieval-Augmented Generation System
+Built a local **RAG pipeline** using LangChain, ChromaDB, and Ollama embeddings for semantic document retrieval.
+
+### Federated Facial Detection
+Implemented a **privacy-preserving federated learning system in Rust** using federated averaging across distributed clients.
+
+---
+
+# Awards
+
+**URSA Best Overall Presentation Award**  
+University of Illinois Research Symposium
+
+**James Scholar**  
+**Dean's List (all semesters)**
+
+**Scholarships**
+- Illinois Engineering Achievement Scholarship  
+- Grainger College of Engineering Outstanding Scholarship
+
+---
+
+# Connect
+
+Portfolio → https://prasbb.github.io/prasbb-portfolio/  
+LinkedIn → https://www.linkedin.com/in/prasheetha-bairwa/  
