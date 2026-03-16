@@ -12,7 +12,7 @@ https://prasbb.github.io/prasbb-portfolio/
 
 ---
 
-# 🔍 About Me
+# About Me
 
 ### AI Systems Engineering
 **AI Intern — Kongsberg Digital**
